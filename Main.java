@@ -4,8 +4,8 @@ public class Main{
         System.out.println(n);
     }
 
-    b1
-    
+    b2
+
     public static void main(String[] args){
         System.out.println("Valami");
         kiirInt(2);
