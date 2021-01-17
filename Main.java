@@ -5,6 +5,7 @@ public class Main{
     }
     
     valami
+    v
     
     public static void main(String[] args){
         System.out.println("Valami");
